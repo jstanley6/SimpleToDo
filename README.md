@@ -23,12 +23,13 @@ The following **additional** features are implemented:
 * [ ] Add images to enhance user interface
 * [ ] Add a floating button instead of a normal button
 * [ ] Use dialog boxes to ensure the user wants to update the item text
+* [x] Added error checking so blank text wasn't added to the list of items
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
